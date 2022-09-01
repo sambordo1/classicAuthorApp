@@ -8,12 +8,10 @@ def lambda_handler(event, context):
     authorId = event['queryStringParameters']['authorId']
     authorName = event['queryStringParameters']['authorName']
     quote = event['queryStringParameters']['quote']
-    book = event['queryStringParameters']['book']
 
     print('authorId = ' + authorId)
     print('authorName = ' + authorName)
     print('quote = ' + quote)
-    print('book = ' + book)
     
     
     #2. Construct body of response object
@@ -22,7 +20,6 @@ def lambda_handler(event, context):
     classicAuthorResponse['authorId'] = authorId
     classicAuthorResponse['authorName'] = authorName
     classicAuthorResponse['quote'] = quote
-    classicAuthorResponse['book'] = book
     
     #3. construct http response object
     responseObject = {}
