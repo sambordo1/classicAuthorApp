@@ -4,22 +4,22 @@ print('loading function')
 
 def lambda_handler(event, context):
     
-    #1. Parse out query string params
-    authorId = event['queryStringParameters']['authorId']
     authorName = event['queryStringParameters']['authorName']
-    quote = event['queryStringParameters']['quote']
-
-    print('authorId = ' + authorId)
-    print('authorName = ' + authorName)
-    print('quote = ' + quote)
+    quote = ""
     
-    
+    if authorName == 'Dickens':
+        quote = 'Dickens quote'
+    elif authorName == 'Shakespeare':
+        quote = 'Shakespeare quote'
+    else:
+        quote = 'Please input Shakespeare or Dickens'
+   
     #2. Construct body of response object
     
     classicAuthorResponse = {}
-    classicAuthorResponse['authorId'] = authorId
-    classicAuthorResponse['authorName'] = authorName
+    classicAuthorResponse['author'] = authorName
     classicAuthorResponse['quote'] = quote
+
     
     #3. construct http response object
     responseObject = {}
