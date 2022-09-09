@@ -1,0 +1,304 @@
+{
+    "classicAuthor": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Shakespeare"
+                    },
+                    "quoteID": {
+                        "N": "1"
+                    },
+                    "quote": {
+                        "S": "Love all, trust a few, do wrong to none"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Shakespeare"
+                    },
+                    "quoteID": {
+                        "N": "2"
+                    },
+                    "quote": {
+                        "S": "The fool doth think he is wise, but the wise man knows himself to be a fool"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Shakespeare"
+                    },
+                    "quoteID": {
+                        "N": "3"
+                    },
+                    "quote": {
+                        "S": "There is nothing either good or bad, but thinking makes it so"
+                    }
+                }
+            }
+         },
+        {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Shakespeare"
+                    },
+                    "quoteID": {
+                        "N": "4"
+                    },
+                    "quote": {
+                        "S": "To be, or not to be: that is the question"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Shakespeare"
+                    },
+                    "quoteID": {
+                        "N": "5"
+                    },
+                    "quote": {
+                        "S": "Love looks not with the eyes, but with the mind, And therefore is winged Cupid painted blind"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Shakespeare"
+                    },
+                    "quoteID": {
+                        "N": "6"
+                    },
+                    "quote": {
+                        "S": "Be not afraid of greatness. Some are born great, some achieve greatness, and others have greatness thrust upon them"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Shakespeare"
+                    },
+                    "quoteID": {
+                        "N": "7"
+                    },
+                    "quote": {
+                        "S": "The fault, dear Brutus, is not in our stars, but in ourselves"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Shakespeare"
+                    },
+                    "quoteID": {
+                        "N": "8"
+                    },
+                    "quote": {
+                        "S": "Hell is empty and all the devils are here"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Shakespeare"
+                    },
+                    "quoteID": {
+                        "N": "9"
+                    },
+                    "quote": {
+                        "S": "It is not in the stars to hold our destiny but in ourselves"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Shakespeare"
+                    },
+                    "quoteID": {
+                        "N": "10"
+                    },
+                    "quote": {
+                        "S": "We know what we are, but not what we may be"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Shakespeare"
+                    },
+                    "quoteID": {
+                        "N": "11"
+                    },
+                    "quote": {
+                        "S": "You speak an infinite deal of nothing"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Shakespeare"
+                    },
+                    "quoteID": {
+                        "N": "12"
+                    },
+                    "quote": {
+                        "S": "Words are easy, like the wind; faithful friends are hard to find"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Shakespeare"
+                    },
+                    "quoteID": {
+                        "N": "13"
+                    },
+                    "quote": {
+                        "S": "Though she be but little, she is fierce!"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Shakespeare"
+                    },
+                    "quoteID": {
+                        "N": "14"
+                    },
+                    "quote": {
+                        "S": "My tongue will tell the anger of my heart, or else my heart concealing it will break"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Shakespeare"
+                    },
+                    "quoteID": {
+                        "N": "15"
+                    },
+                    "quote": {
+                        "S": "The course of true love never did run smooth"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Shakespeare"
+                    },
+                    "quoteID": {
+                        "N": "16"
+                    },
+                    "quote": {
+                        "S": "Stars, hide your fires; Let not light see my black and deep desires"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Shakespeare"
+                    },
+                    "quoteID": {
+                        "N": "17"
+                    },
+                    "quote": {
+                        "S": "Lord, what fools these mortals be!"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Shakespeare"
+                    },
+                    "quoteID": {
+                        "N": "18"
+                    },
+                    "quote": {
+                        "S": "I like this place and could willingly waste my time in it"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Shakespeare"
+                    },
+                    "quoteID": {
+                        "N": "19"
+                    },
+                    "quote": {
+                        "S": "Don't waste your love on somebody, who doesn't value it"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Shakespeare"
+                    },
+                    "quoteID": {
+                        "N": "20"
+                    },
+                    "quote": {
+                        "S": "If music be the food of love, play on, Give me excess of it; that surfeiting, The appetite may sicken, and so die"
+                    }
+                }
+            }
+         }
+    ]
+}

@@ -1,0 +1,304 @@
+{
+    "classicAuthor": [
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Dickens"
+                    },
+                    "quoteID": {
+                        "N": "1"
+                    },
+                    "quote": {
+                        "S": "A day wasted on others is not wasted on one's self"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Dickens"
+                    },
+                    "quoteID": {
+                        "N": "2"
+                    },
+                    "quote": {
+                        "S": "The pain of parting is nothing to the joy of meeting again"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Dickens"
+                    },
+                    "quoteID": {
+                        "N": "3"
+                    },
+                    "quote": {
+                        "S": "It was the best of times, it was the worst of times"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Dickens"
+                    },
+                    "quoteID": {
+                        "N": "4"
+                    },
+                    "quote": {
+                        "S": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to, than I have ever known"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Dickens"
+                    },
+                    "quoteID": {
+                        "N": "5"
+                    },
+                    "quote": {
+                        "S": "We forge the chains we wear in life"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Dickens"
+                    },
+                    "quoteID": {
+                        "N": "6"
+                    },
+                    "quote": {
+                        "S": "Electric communication will never be a substitute for the face of someone who with their soul encourages another person to be brave and true"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Dickens"
+                    },
+                    "quoteID": {
+                        "N": "7"
+                    },
+                    "quote": {
+                        "S": "If there were no bad people, there would be no good lawyers"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Dickens"
+                    },
+                    "quoteID": {
+                        "N": "8"
+                    },
+                    "quote": {
+                        "S": "A loving heart is the truest wisdom"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Dickens"
+                    },
+                    "quoteID": {
+                        "N": "9"
+                    },
+                    "quote": {
+                        "S": "No one is useless in this world who lightens the burden of it to anyone else"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Dickens"
+                    },
+                    "quoteID": {
+                        "N": "10"
+                    },
+                    "quote": {
+                        "S": "I never could have done what I have done without the habits of punctuality, order, and diligence, without the determination to concentrate myself on one subject at a time"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Dickens"
+                    },
+                    "quoteID": {
+                        "N": "11"
+                    },
+                    "quote": {
+                        "S": "There are dark shadows on the earth, but its lights are stronger in the contrast"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Dickens"
+                    },
+                    "quoteID": {
+                        "N": "12"
+                    },
+                    "quote": {
+                        "S": "Home is a name, a word, it is a strong one; stronger than magician ever spoke, or spirit ever answered to, in the strongest conjuration"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Dickens"
+                    },
+                    "quoteID": {
+                        "N": "13"
+                    },
+                    "quote": {
+                        "S": "A wonderful fact to reflect upon, that every human creature is constituted to be that profound secret and mystery to every other"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Dickens"
+                    },
+                    "quoteID": {
+                        "N": "14"
+                    },
+                    "quote": {
+                        "S": "Have a heart that never hardens, and a temper that never tires, and a touch that never hurts"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Dickens"
+                    },
+                    "quoteID": {
+                        "N": "15"
+                    },
+                    "quote": {
+                        "S": "There are strings in the human heart that had better not be vibrated"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Dickens"
+                    },
+                    "quoteID": {
+                        "N": "16"
+                    },
+                    "quote": {
+                        "S": "Life is made of ever so many partings welded together"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Dickens"
+                    },
+                    "quoteID": {
+                        "N": "17"
+                    },
+                    "quote": {
+                        "S": "An idea, like a ghost, must be spoken to a little before it will explain itself"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Dickens"
+                    },
+                    "quoteID": {
+                        "N": "18"
+                    },
+                    "quote": {
+                        "S": "Let us be moral. Let us contemplate existence"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Dickens"
+                    },
+                    "quoteID": {
+                        "N": "19"
+                    },
+                    "quote": {
+                        "S": "Oh the nerves, the nerves; the mysteries of this machine called man! Oh the little that unhinges it, poor creatures that we are!"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Dickens"
+                    },
+                    "quoteID": {
+                        "N": "20"
+                    },
+                    "quote": {
+                        "S": "Cows are my passion. What I have ever sighed for has been to retreat to a Swiss farm, and live entirely surrounded by cows - and china"
+                    }
+                }
+            }
+         }
+    ]
+}
