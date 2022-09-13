@@ -1,0 +1,304 @@
+{
+    "classicAuthor": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Twain"
+                    },
+                    "quoteID": {
+                        "N": "1"
+                    },
+                    "quote": {
+                        "S": "Politicians and diapers must be changed often, and for the same reason"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Twain"
+                    },
+                    "quoteID": {
+                        "N": "2"
+                    },
+                    "quote": {
+                        "S": "God created war so that Americans would learn geography."
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Twain"
+                    },
+                    "quoteID": {
+                        "N": "3"
+                    },
+                    "quote": {
+                        "S": "All generalizations are false, including this one"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Twain"
+                    },
+                    "quoteID": {
+                        "N": "4"
+                    },
+                    "quote": {
+                        "S": "A lie can run around the world six times while the truth is still trying to put on its pants"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Twain"
+                    },
+                    "quoteID": {
+                        "N": "5"
+                    },
+                    "quote": {
+                        "S": "An honest man in politics shines more there than he would elsewhere"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Twain"
+                    },
+                    "quoteID": {
+                        "N": "6"
+                    },
+                    "quote": {
+                        "S": "Nothing spoils a good story like the arrival of an eyewitness"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Twain"
+                    },
+                    "quoteID": {
+                        "N": "7"
+                    },
+                    "quote": {
+                        "S": "Classic, a book which people praise and dont read"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Twain"
+                    },
+                    "quoteID": {
+                        "N": "8"
+                    },
+                    "quote": {
+                        "S": "Circumstances make man, not man circumstances"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Twain"
+                    },
+                    "quoteID": {
+                        "N": "9"
+                    },
+                    "quote": {
+                        "S": "If the world comes to an end, I want to be in Cincinnati. Everything comes there ten years later"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Twain"
+                    },
+                    "quoteID": {
+                        "N": "10"
+                    },
+                    "quote": {
+                        "S": "Golf is a good walk spoiled"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Twain"
+                    },
+                    "quoteID": {
+                        "N": "11"
+                    },
+                    "quote": {
+                        "S": "Age is an issue of mind over matter. If you dont mind, it doesnt matter"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Twain"
+                    },
+                    "quoteID": {
+                        "N": "12"
+                    },
+                    "quote": {
+                        "S": "Work is a necessary evil to be avoided"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Twain"
+                    },
+                    "quoteID": {
+                        "N": "13"
+                    },
+                    "quote": {
+                        "S": "Name the greatest of all inventors. Accident."
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Twain"
+                    },
+                    "quoteID": {
+                        "N": "14"
+                    },
+                    "quote": {
+                        "S": "To believe yourself brave is to be brave; it is the only essential thing"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Twain"
+                    },
+                    "quoteID": {
+                        "N": "15"
+                    },
+                    "quote": {
+                        "S": "Against the assault of laughter, nothing can stand"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Twain"
+                    },
+                    "quoteID": {
+                        "N": "16"
+                    },
+                    "quote": {
+                        "S": "To succeed in life, you need two things: ignorance and confidence"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Twain"
+                    },
+                    "quoteID": {
+                        "N": "17"
+                    },
+                    "quote": {
+                        "S": "Nothing so needs reforming as other peoples habits"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Twain"
+                    },
+                    "quoteID": {
+                        "N": "18"
+                    },
+                    "quote": {
+                        "S": "If its your job to eat a frog, its best to do it first thing in the morning. And If its your job to eat two frogs, its best to eat the biggest one first"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Twain"
+                    },
+                    "quoteID": {
+                        "N": "19"
+                    },
+                    "quote": {
+                        "S": "Never put off til tomorrow what you can do the day after tomorrow"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Twain"
+                    },
+                    "quoteID": {
+                        "N": "20"
+                    },
+                    "quote": {
+                        "S": "Be careless in your dress if you must, but keep a tidy soul"
+                    }
+                }
+            }
+         }
+    ]
+}

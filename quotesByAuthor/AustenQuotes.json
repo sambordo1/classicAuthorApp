@@ -1,0 +1,304 @@
+{
+    "classicAuthor": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Austen"
+                    },
+                    "quoteID": {
+                        "N": "1"
+                    },
+                    "quote": {
+                        "S": "The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Austen"
+                    },
+                    "quoteID": {
+                        "N": "2"
+                    },
+                    "quote": {
+                        "S": "Life seems but a quick succession of busy nothings"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Austen"
+                    },
+                    "quoteID": {
+                        "N": "3"
+                    },
+                    "quote": {
+                        "S": "Nothing ever fatigues me, but doing what I do not like"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Austen"
+                    },
+                    "quoteID": {
+                        "N": "4"
+                    },
+                    "quote": {
+                        "S": "It is a truth universally acknowledged that a single man in possession of a good fortune, must be in want of a wife"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Austen"
+                    },
+                    "quoteID": {
+                        "N": "5"
+                    },
+                    "quote": {
+                        "S": "Those who do not complain are never pitied"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Austen"
+                    },
+                    "quoteID": {
+                        "N": "6"
+                    },
+                    "quote": {
+                        "S": "It isnt what we say or think that defines us, but what we do"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Austen"
+                    },
+                    "quoteID": {
+                        "N": "7"
+                    },
+                    "quote": {
+                        "S": "There are people, who the more you do for them, the less they will do for themselves"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Austen"
+                    },
+                    "quoteID": {
+                        "N": "8"
+                    },
+                    "quote": {
+                        "S": "To flatter and follow others, without being flattered and followed in turn, is but a state of half enjoyment"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Austen"
+                    },
+                    "quoteID": {
+                        "N": "9"
+                    },
+                    "quote": {
+                        "S": "Business, you know, may bring you money, but friendship hardly ever does"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Austen"
+                    },
+                    "quoteID": {
+                        "N": "10"
+                    },
+                    "quote": {
+                        "S": "My sore throats are always worse than anyones"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Austen"
+                    },
+                    "quoteID": {
+                        "N": "11"
+                    },
+                    "quote": {
+                        "S": "One cannot be always laughing at a man without now and then stumbling on something witty"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Austen"
+                    },
+                    "quoteID": {
+                        "N": "12"
+                    },
+                    "quote": {
+                        "S": "It is very difficult for the prosperous to be humble"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Austen"
+                    },
+                    "quoteID": {
+                        "N": "13"
+                    },
+                    "quote": {
+                        "S": "I do not want people to be very agreeable, as it saves me the trouble of liking them a great deal"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Austen"
+                    },
+                    "quoteID": {
+                        "N": "14"
+                    },
+                    "quote": {
+                        "S": "I have not the pleasure of understanding you"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Austen"
+                    },
+                    "quoteID": {
+                        "N": "15"
+                    },
+                    "quote": {
+                        "S": "It’s been many years since I had such an exemplary vegetable"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Austen"
+                    },
+                    "quoteID": {
+                        "N": "16"
+                    },
+                    "quote": {
+                        "S": "One mans style must not be the rule of anothers"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Austen"
+                    },
+                    "quoteID": {
+                        "N": "17"
+                    },
+                    "quote": {
+                        "S": "They are much to be pitied who have not been given a taste for nature early in life"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Austen"
+                    },
+                    "quoteID": {
+                        "N": "18"
+                    },
+                    "quote": {
+                        "S": "Laugh as much as you choose, but you will not laugh me out of my opinion"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Austen"
+                    },
+                    "quoteID": {
+                        "N": "19"
+                    },
+                    "quote": {
+                        "S": "Without music, life would be a blank to me"
+                    }
+                }
+            }
+         },
+         {
+            "PutRequest": {
+                "Item": {
+                    "author_name": {
+                        "S": "Austen"
+                    },
+                    "quoteID": {
+                        "N": "20"
+                    },
+                    "quote": {
+                        "S": "But people themselves alter so much, that there is something new to be observed in them forever"
+                    }
+                }
+            }
+         }
+    ]
+}
